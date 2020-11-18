@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#59BF0F</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorGreen">#59BF0F</color>
+    <color name="boxLightGrey">#F6F6F6</color>
+    <color name="colorGrey">#949494</color>
+    <color name="colorRed">#E32A2A</color>
+    <color name="boxLightSemitransparent">#D9FFFFFF</color>
+    <color name="colorDarkGrey">#1A1A1A</color>
+    <color name="colorWhite">#FFFFFF</color>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Parkouka.by</string>
+    <string name="search_button_text">Найти парковку</string>
+    <string name="payment_button_text">Оплатить парковку</string>
+    <string name="nearest_textview">Ближайшие к вам</string>
+    <string name="input_adress_text">Введите адрес</string>
+    <string name="parking_menu_item">Парковка</string>
+    <string name="history_menu_item">История</string>
+    <string name="settings_menu_item">Настройки</string>
+    <string name="payment_text">Оплата</string>
+    <string name="enter_auto_number_text">введите номер машины</string>
+    <string name="pay_text">Оплатить</string>
+    <string name="duration_text">выберите продолжительность оплаты</string>
+    <string name="search_result_text">Результаты поиска</string>
+    <string name="phone_text">Телефон</string>
+    <string name="saved_numbers_text">Сохраненные номера</string>
+    <string name="prolong_payment_text">Продлить</string>
+    <string name="number_hint">1111АА7</string>
+    <string name="paid_till_text">оплачено до</string>
+    <string name="time_left_text">осталось</string>
+    <string name="hello_text">Здравствуйте</string>
+    <string name="phone_info1_text">Для использования оплаты нам понадобится ваш номер телефона</string>
+    <string name="phone_info2_text">Введите его в поле снизу. Номер телефона всегда можно будет изменить в настройках</string>
+    <string name="save_text">сохранить</string>
+    <string name="skip_text">пропустить</string>
+    <string name="number_info_text">Для удобства дальнейшей работы предлагаем вам ввести номера автомобилей, которые вы собираетесь использовать</string>
+</resources>

@@ -1,0 +1,77 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorGreen</item>
+    </style>
+
+    <style name="GreenText14" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/pt_sans</item>
+        <item name="android:textColor">@color/colorGreen</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="GreenText18" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/pt_sans</item>
+        <item name="android:textColor">@color/colorGreen</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="GreenText18Bold" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/pt_sans_bold</item>
+        <item name="android:textColor">@color/colorGreen</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="GreenText36Bold" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/pt_sans_bold</item>
+        <item name="android:textColor">@color/colorGreen</item>
+        <item name="android:textSize">36sp</item>
+    </style>
+
+    <style name="BlackText14" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/pt_sans</item>
+        <item name="android:textColor">@color/colorDarkGrey</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="BlackText18" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/pt_sans</item>
+        <item name="android:textColor">@color/colorDarkGrey</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="BlackText36Bold" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/pt_sans_bold</item>
+        <item name="android:textColor">@color/colorDarkGrey</item>
+        <item name="android:textSize">36sp</item>
+    </style>
+
+    <style name="GreenText24Bold" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/pt_sans_bold</item>
+        <item name="android:textColor">@color/colorGreen</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="WhiteText18" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/pt_sans</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="WhiteText14" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/pt_sans</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="boxStyle">
+        <item name="android:background">@color/boxLightGrey</item>
+        <item name="android:shadowDx">4.0</item>
+        <item name="android:shadowDy">4.0</item>
+        <item name="android:shadowRadius">8.0</item>
+        <item name="android:bottomLeftRadius">22dp</item>
+    </style>
+</resources>
